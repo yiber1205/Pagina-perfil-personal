@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.nombre{
+    color: limegreen;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.descripcion{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.lista{
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+.git{
+    color: limegreen;
+    letter-spacing: 2px;
+}
+.gitlink{
+    color: blue;
+}
+.lista2{
+    display: inline-block;
+    text-align: left;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+    letter-spacing: 2px;
+}
+.titulolist2{
+    color: limegreen;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+.metas{
+    letter-spacing: 2px;
+}
+a { color: #00e5ff;
+     text-decoration: none; }
+a:hover { color: #00ff00;
+     text-decoration: underline;
+     }
+img { max-width: 100%;
+     height: auto;
+      border: 2px solid #00ff00;
+       border-radius: 8px;
+        display: block;
+         margin: 20px auto;
+         }
